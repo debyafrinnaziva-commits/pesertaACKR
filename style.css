@@ -16,4 +16,8 @@ body {
  width: 150px;
  border-radius:  50%; /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
-  
+.daftar-proyek {
+  display: flex; 
+  justify-content: center;
+  gap: 20px
+}
